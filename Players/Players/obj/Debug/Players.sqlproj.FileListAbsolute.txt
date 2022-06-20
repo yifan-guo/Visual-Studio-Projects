@@ -1,0 +1,5 @@
+c:\users\yifan\documents\visual studio 2015\Projects\Players\Players\bin\Debug\Players.dacpac
+c:\users\yifan\documents\visual studio 2015\Projects\Players\Players\bin\Debug\Players.dll
+c:\users\yifan\documents\visual studio 2015\Projects\Players\Players\bin\Debug\Players.pdb
+c:\users\yifan\documents\visual studio 2015\Projects\Players\Players\obj\Debug\Players.dll
+c:\users\yifan\documents\visual studio 2015\Projects\Players\Players\obj\Debug\Players.pdb

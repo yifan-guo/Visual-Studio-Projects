@@ -1,0 +1,18 @@
+﻿  BinNode.cpp
+c:\users\yifan\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\binnode.cpp(5): error C2988: unrecognizable template declaration/definition
+c:\users\yifan\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\binnode.cpp(5): error C2143: syntax error: missing ';' before '<'
+c:\users\yifan\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\binnode.cpp(5): error C2059: syntax error: '<'
+c:\users\yifan\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\binnode.cpp(9): error C2065: 'rhs': undeclared identifier
+c:\users\yifan\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\binnode.cpp(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\yifan\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\binnode.cpp(9): error C2448: 'right': function-style initializer appears to be a function definition
+c:\users\yifan\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\binnode.cpp(21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\yifan\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\binnode.cpp(21): error C2988: unrecognizable template declaration/definition
+c:\users\yifan\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\binnode.cpp(21): error C2143: syntax error: missing ';' before '<'
+c:\users\yifan\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\binnode.cpp(21): error C2059: syntax error: '<'
+  BST.cpp
+c:\users\yifan\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\bst.cpp(2): error C2988: unrecognizable template declaration/definition
+c:\users\yifan\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\bst.cpp(2): error C2143: syntax error: missing ';' before '<'
+c:\users\yifan\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\bst.cpp(2): error C2059: syntax error: '<'
+c:\users\yifan\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\bst.cpp(5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\yifan\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\bst.cpp(5): error C2448: 'myRoot': function-style initializer appears to be a function definition
+  Generating Code...
